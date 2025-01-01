@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-react-tictactoeAI-app/static/css/main.e6c13ad2.css",
+    "main.js": "/my-react-tictactoeAI-app/static/js/main.00cbacf8.js",
+    "index.html": "/my-react-tictactoeAI-app/index.html",
+    "main.e6c13ad2.css.map": "/my-react-tictactoeAI-app/static/css/main.e6c13ad2.css.map",
+    "main.00cbacf8.js.map": "/my-react-tictactoeAI-app/static/js/main.00cbacf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.00cbacf8.js"
+  ]
+}
